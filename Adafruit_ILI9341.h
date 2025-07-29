@@ -42,7 +42,7 @@
 #include <Adafruit_SPITFT.h>
 #include <SPI.h>
 
-#define ILI9341_TFTWIDTH 240  ///< ILI9341 max TFT width
+#define ILI9341_TFTWIDTH 320  ///< ILI9341 max TFT width
 #define ILI9341_TFTHEIGHT 320 ///< ILI9341 max TFT height
 
 #define ILI9341_NOP 0x00     ///< No-op register
